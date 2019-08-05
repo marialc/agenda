@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.head {
+    background-color: #e2001a;
+    padding: 2% 0 2% 0;
+}
+
+.logo{
+    margin-left: 20%;
+}
+
+.icons {
+    margin-right: 20%;
+    font-size: 2em;
+}
+
